@@ -7,6 +7,6 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "build": "json-server server.json -w -d 750 -p 3333"
+    "start": "node server.js"
   }
 }
